@@ -34,7 +34,7 @@ class Employee(object):
 
     def finishEstimate(self):
         self.finishJob()
-        if not self.manager.totalEstimates % 7 == 0:
+        if not self.manager.totalEstimates % 4 == 0:
             self.manager.partsOrder()
 
     def finishPartsOrder(self):
@@ -50,6 +50,7 @@ class Employee(object):
         if self.manager.totalRepairOrders % 4:
             import partsorder
             job_time = partsorder.order(True)/self.manager.dtime
+            self.manager.partsdelay += job_time
             t = threading.Timer(job_time, self.manager.doBodyWork, [True])
             t.start()
             self.manager.timers.append(t)
@@ -140,7 +141,7 @@ class Employee(object):
         elif job_type == 6: # prep
             import prep
             if self.manager.debug:
-                print('Brandi doin her shit')
+                print('Brandi doin her job')
             if self.manager.totalRepairOrders % 2 == 0:
                 job_time = prep.prepare(Primer=True)/self.manager.dtime
             else:
@@ -183,7 +184,7 @@ class Employee(object):
         elif job_type == 10: # cleanup
             import cleanup
             if self.manager.debug:
-                print('Wasting time')
+                print('Cleaning the car')
             job_time = cleanup.port()/self.manager.dtime
             self.startJob()
             t = threading.Timer(job_time, self.finishCleanUpWork)

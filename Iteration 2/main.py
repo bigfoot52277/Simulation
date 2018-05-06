@@ -43,9 +43,9 @@ def main():
     employees.append(Employee("Quality", [2, 11], 15))
     manager = Manager.Manager(employees)
 
-    manager.dtime = 10000
+    manager.dtime = 100000
     manager.debug = False
-    run_time = 720 #720 makes a year
+    run_time = 72 #720 makes a year
 
     stime = time.time() # time stamp for begining 
     start_time = time.time() # time the program started
@@ -95,17 +95,19 @@ Repair per Estimates = {ro_per_estimates}%
             cost = employee.calculateCost(hours)
             employee_cost += cost
             employee_summary += """{name}\t\t{worked}\t{idle}%\t${cost}\n""".format(name=employee.name, worked=worked, idle=idle, cost=cost)
-        with open("it2out.txt", 'a') as f:
-            f.write('\n\n')
-            f.write(summary)
-            f.write(employee_summary)
-            f.write('\tAverage idle time: {}%\n'.format(round(sum(total_idle)/len(total_idle), 2)))
-            f.write("\tTotal Cost of Employees: ${}\n".format(employee_cost))
-            job_cost = manager.totalCompletedRepairOrders * 2346.54
-            f.write("\tGross Profit : ${}\n".format(job_cost))
-            f.write("\tActual Profit : ${}\n".format(job_cost - employee_cost))
+##        with open("it2out.txt", 'a') as f:
+##            f.write('\n\n')
+##            f.write(summary)
+##            f.write(employee_summary)
+##            f.write('\tAverage idle time: {}%\n'.format(round(sum(total_idle)/len(total_idle), 2)))
+##            f.write("\tTotal Cost of Employees: ${}\n".format(employee_cost))
+##            job_cost = manager.totalCompletedRepairOrders * 2346.54
+##            f.write("\tGross Profit : ${}\n".format(job_cost))
+##            f.write("\tActual Profit : ${}\n".format(job_cost - employee_cost))
+            print(manager.partsorders)
+            print(round((float(manager.partsdelay) * float(manager.dtime)) / 3600, 2))
 if __name__ == '__main__':
-    with open("it2out.txt", 'w') as f:
+    with open("it22out.txt", 'w') as f:
         f.write("")
     for _ in xrange(10):
         main()

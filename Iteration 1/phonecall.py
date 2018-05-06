@@ -12,4 +12,4 @@ def gen_call_length():  # generates telephone call lenghts
     return float(biased_random(0, 762, 2724, 333))
 
 def gen_call_time(): # generates inbound telephone call times
-    return biased_random(45, 432, 738, 79)
+    return biased_random(15, 624, 2145, 123)

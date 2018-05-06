@@ -38,9 +38,9 @@ def main():
     employees.append(Employee("Porter", [10], 8))
     manager = Manager.Manager(employees)
 
-    manager.dtime = 10000
+    manager.dtime = 100000
     manager.debug = False
-    run_time = 720   #720 makes a year
+    run_time = 72   #720 makes a year
 
     stime = time.time() # time stamp for begining 
     start_time = time.time() # time the program started
@@ -99,6 +99,7 @@ Repair per Estimates = {ro_per_estimates}%
             job_cost = manager.totalCompletedRepairOrders * 2346.54
             f.write("\tGross Profit : ${}\n".format(job_cost))
             f.write("\tActual Profit : ${}\n".format(job_cost - employee_cost))
+
 
 if __name__ == '__main__':
     with open('it1out.txt', 'w') as f:

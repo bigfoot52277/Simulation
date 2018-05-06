@@ -23,6 +23,7 @@ class Manager(object):
         self.totalEstimates = 0
         self.totalRepairOrders = 0
         self.totalCompletedRepairOrders = 0
+        self.partsdelay = 0 
 
     def check(self):
         shuffle(self.employees)

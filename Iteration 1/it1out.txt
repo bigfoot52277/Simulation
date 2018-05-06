@@ -1,240 +1,240 @@
 
 
-Hours Open = 2000.84
-Total Calls = 4528
-Total Estimates = 664
-Total Repair Orders = 570
-Total Completed Orders = 324
-Estimate Per Calls = 14.66%
-Repair per Estimates = 85.84%
+Hours Open = 2002.67
+Total Calls = 3208
+Total Estimates = 481
+Total Repair Orders = 419
+Total Completed Orders = 260
+Estimate Per Calls = 14.99%
+Repair per Estimates = 87.11%
 
 Employee	Working	Idle	Cost
-Brandi		1007.34	49.65	$24010.08
-Clay		428.57	78.58	$46299.44
-Eddie		1483.0	25.88	$18290.35
-Joe		1438.28	28.12	$24189.2
-Karen		431.85	78.42	$30872.96
-Mary		426.67	78.68	$18007.56
-Porter		373.02	81.36	$16006.72
-Ronnie		827.09	58.66	$38253.0
-Scott		1517.33	24.17	$13367.0
-	Average idle time: 55.95%
-	Total Cost of Employees: $229296.31
-	Gross Profit : $760278.96
-	Actual Profit : $530982.65
+Brandi		830.88	58.51	$24032.04
+Clay		389.05	80.57	$46341.78
+Eddie		1185.88	40.79	$14625.86
+Joe		1134.83	43.33	$19085.71
+Karen		380.02	81.02	$30901.2
+Mary		376.76	81.19	$18024.03
+Porter		321.27	83.96	$16021.36
+Ronnie		698.52	65.12	$32306.74
+Scott		1273.56	36.41	$11219.45
+	Average idle time: 63.43%
+	Total Cost of Employees: $212558.17
+	Gross Profit : $610100.4
+	Actual Profit : $397542.23
 
 
-Hours Open = 2000.77
-Total Calls = 4510
-Total Estimates = 683
-Total Repair Orders = 589
-Total Completed Orders = 323
-Estimate Per Calls = 15.14%
-Repair per Estimates = 86.24%
-
-Employee	Working	Idle	Cost
-Brandi		1031.99	48.42	$24009.24
-Clay		434.59	78.28	$46297.82
-Eddie		1455.14	27.27	$17946.73
-Joe		1415.46	29.25	$23805.5
-Karen		428.73	78.57	$30871.88
-Mary		444.36	77.79	$18006.93
-Porter		371.64	81.43	$16006.16
-Ronnie		818.82	59.07	$37870.2
-Scott		1496.22	25.22	$13180.98
-	Average idle time: 56.14%
-	Total Cost of Employees: $227995.44
-	Gross Profit : $757932.42
-	Actual Profit : $529936.98
-
-
-Hours Open = 2000.85
-Total Calls = 4551
-Total Estimates = 697
-Total Repair Orders = 593
-Total Completed Orders = 334
+Hours Open = 2002.93
+Total Calls = 3257
+Total Estimates = 499
+Total Repair Orders = 429
+Total Completed Orders = 280
 Estimate Per Calls = 15.32%
-Repair per Estimates = 85.08%
+Repair per Estimates = 85.97%
 
 Employee	Working	Idle	Cost
-Brandi		1041.12	47.97	$24010.2
-Clay		437.01	78.16	$46299.67
-Eddie		1446.16	27.72	$17835.99
-Joe		1371.05	31.48	$23058.49
-Karen		439.67	78.03	$30873.12
-Mary		438.16	78.1	$18007.65
-Porter		382.26	80.9	$16006.8
-Ronnie		850.23	57.51	$39322.96
-Scott		1483.47	25.86	$13068.66
-	Average idle time: 56.19%
-	Total Cost of Employees: $228483.54
-	Gross Profit : $783744.36
-	Actual Profit : $555260.82
+Brandi		890.12	55.56	$24035.16
+Clay		384.23	80.82	$46347.8
+Eddie		1040.4	48.06	$12831.64
+Joe		982.32	50.96	$16520.9
+Karen		395.48	80.25	$30905.21
+Mary		398.78	80.09	$18026.37
+Porter		341.3	82.96	$16023.44
+Ronnie		751.16	62.5	$34741.34
+Scott		1119.6	44.1	$9863.17
+	Average idle time: 65.03%
+	Total Cost of Employees: $209295.03
+	Gross Profit : $657031.2
+	Actual Profit : $447736.17
 
 
-Hours Open = 2000.77
-Total Calls = 4605
-Total Estimates = 657
-Total Repair Orders = 561
-Total Completed Orders = 320
-Estimate Per Calls = 14.27%
-Repair per Estimates = 85.39%
-
-Employee	Working	Idle	Cost
-Brandi		975.71	51.23	$24009.24
-Clay		447.99	77.61	$46297.82
-Eddie		1370.3	31.51	$16900.41
-Joe		1318.18	34.12	$22169.44
-Karen		443.14	77.85	$30871.88
-Mary		428.19	78.6	$18006.93
-Porter		369.16	81.55	$16006.16
-Ronnie		819.65	59.03	$37908.74
-Scott		1440.45	28.01	$12689.66
-	Average idle time: 57.72%
-	Total Cost of Employees: $224860.28
-	Gross Profit : $750892.8
-	Actual Profit : $526032.52
-
-
-Hours Open = 2000.8
-Total Calls = 4563
-Total Estimates = 675
-Total Repair Orders = 575
-Total Completed Orders = 292
-Estimate Per Calls = 14.79%
-Repair per Estimates = 85.19%
+Hours Open = 2002.85
+Total Calls = 3289
+Total Estimates = 492
+Total Repair Orders = 418
+Total Completed Orders = 285
+Estimate Per Calls = 14.96%
+Repair per Estimates = 84.96%
 
 Employee	Working	Idle	Cost
-Brandi		927.05	53.67	$24009.6
-Clay		425.6	78.73	$46298.51
-Eddie		1427.31	28.66	$17603.44
-Joe		1381.89	30.93	$23240.92
-Karen		436.9	78.16	$30872.34
-Mary		427.67	78.63	$18007.2
-Porter		335.76	83.22	$16006.4
-Ronnie		759.83	62.02	$35141.98
-Scott		1484.55	25.8	$13078.2
-	Average idle time: 57.76%
-	Total Cost of Employees: $224258.59
-	Gross Profit : $685189.68
-	Actual Profit : $460931.09
+Brandi		921.44	53.99	$24034.2
+Clay		401.85	79.94	$46345.95
+Eddie		1086.62	45.75	$13401.62
+Joe		1027.8	48.68	$17285.73
+Karen		387.97	80.63	$30903.98
+Mary		393.83	80.34	$18025.65
+Porter		345.56	82.75	$16022.8
+Ronnie		759.24	62.09	$35114.69
+Scott		1124.81	43.84	$9909.03
+	Average idle time: 64.22%
+	Total Cost of Employees: $211043.65
+	Gross Profit : $668763.9
+	Actual Profit : $457720.25
 
 
-Hours Open = 2000.6
-Total Calls = 4481
-Total Estimates = 649
-Total Repair Orders = 560
-Total Completed Orders = 405
-Estimate Per Calls = 14.48%
-Repair per Estimates = 86.29%
-
-Employee	Working	Idle	Cost
-Brandi		1268.26	36.61	$24007.2
-Clay		431.14	78.45	$46293.88
-Eddie		1153.5	42.34	$14226.54
-Joe		1055.72	47.23	$17755.23
-Karen		439.79	78.02	$30869.26
-Mary		436.21	78.2	$18005.4
-Porter		467.7	76.62	$16004.8
-Ronnie		1033.27	48.35	$47788.53
-Scott		1205.84	39.73	$10622.84
-	Average idle time: 58.39%
-	Total Cost of Employees: $225573.68
-	Gross Profit : $950348.7
-	Actual Profit : $724775.02
-
-
-Hours Open = 2000.8
-Total Calls = 4539
-Total Estimates = 650
-Total Repair Orders = 555
-Total Completed Orders = 298
-Estimate Per Calls = 14.32%
-Repair per Estimates = 85.38%
+Hours Open = 2002.86
+Total Calls = 3233
+Total Estimates = 489
+Total Repair Orders = 414
+Total Completed Orders = 273
+Estimate Per Calls = 15.13%
+Repair per Estimates = 84.66%
 
 Employee	Working	Idle	Cost
-Brandi		920.14	54.01	$24009.6
-Clay		431.38	78.44	$46298.51
-Eddie		1484.26	25.82	$18305.89
-Joe		1446.38	27.71	$24325.42
-Karen		435.42	78.24	$30872.34
-Mary		426.23	78.7	$18007.2
-Porter		341.18	82.95	$16006.4
-Ronnie		756.22	62.2	$34975.1
-Scott		1537.78	23.14	$13547.1
-	Average idle time: 56.8%
-	Total Cost of Employees: $226347.56
-	Gross Profit : $699268.92
-	Actual Profit : $472921.36
+Brandi		829.97	58.56	$24034.32
+Clay		401.49	79.95	$46346.18
+Eddie		1111.13	44.52	$13703.97
+Joe		1054.75	47.34	$17738.94
+Karen		365.77	81.74	$30904.13
+Mary		393.47	80.35	$18025.74
+Porter		327.59	83.64	$16022.88
+Ronnie		720.38	64.03	$33317.54
+Scott		1164.51	41.86	$10258.75
+	Average idle time: 64.67%
+	Total Cost of Employees: $210352.45
+	Gross Profit : $640605.42
+	Actual Profit : $430252.97
 
 
-Hours Open = 2000.74
-Total Calls = 4548
-Total Estimates = 665
-Total Repair Orders = 572
-Total Completed Orders = 335
-Estimate Per Calls = 14.62%
-Repair per Estimates = 86.02%
+Hours Open = 2002.97
+Total Calls = 3226
+Total Estimates = 446
+Total Repair Orders = 386
+Total Completed Orders = 280
+Estimate Per Calls = 13.83%
+Repair per Estimates = 86.55%
 
 Employee	Working	Idle	Cost
-Brandi		1030.4	48.5	$24008.88
-Clay		433.97	78.31	$46297.12
-Eddie		1377.51	31.15	$16989.35
-Joe		1325.86	33.73	$22298.59
-Karen		438.79	78.07	$30871.42
-Mary		433.73	78.32	$18006.66
-Porter		389.05	80.55	$16005.92
-Ronnie		851.99	57.42	$39404.49
-Scott		1445.94	27.73	$12738.04
-	Average idle time: 57.09%
-	Total Cost of Employees: $226620.47
-	Gross Profit : $786090.9
-	Actual Profit : $559470.43
+Brandi		891.21	55.51	$24035.64
+Clay		382.61	80.9	$46348.73
+Eddie		926.18	53.76	$11422.86
+Joe		868.95	56.62	$14614.22
+Karen		367.31	81.66	$30905.83
+Mary		387.65	80.65	$18026.73
+Porter		333.41	83.35	$16023.76
+Ronnie		743.54	62.88	$34388.66
+Scott		982.4	50.95	$8654.51
+	Average idle time: 67.36%
+	Total Cost of Employees: $204420.94
+	Gross Profit : $657031.2
+	Actual Profit : $452610.26
 
 
-Hours Open = 2000.72
-Total Calls = 4644
-Total Estimates = 685
-Total Repair Orders = 577
-Total Completed Orders = 338
+Hours Open = 2003.3
+Total Calls = 3288
+Total Estimates = 494
+Total Repair Orders = 419
+Total Completed Orders = 263
+Estimate Per Calls = 15.02%
+Repair per Estimates = 84.82%
+
+Employee	Working	Idle	Cost
+Brandi		831.76	58.48	$24039.6
+Clay		366.14	81.72	$46356.36
+Eddie		1099.74	45.1	$13563.41
+Joe		1022.48	48.96	$17196.32
+Karen		396.89	80.19	$30910.92
+Mary		393.41	80.36	$18029.7
+Porter		314.23	84.31	$16026.4
+Ronnie		696.76	65.22	$32225.03
+Scott		1179.25	41.13	$10388.64
+	Average idle time: 65.05%
+	Total Cost of Employees: $208736.38
+	Gross Profit : $617140.02
+	Actual Profit : $408403.64
+
+
+Hours Open = 2002.1
+Total Calls = 3249
+Total Estimates = 443
+Total Repair Orders = 375
+Total Completed Orders = 304
+Estimate Per Calls = 13.63%
+Repair per Estimates = 84.65%
+
+Employee	Working	Idle	Cost
+Brandi		940.07	53.05	$24025.2
+Clay		363.26	81.86	$46328.59
+Eddie		913.1	54.39	$11261.55
+Joe		834.11	58.34	$14028.19
+Karen		372.76	81.38	$30892.4
+Mary		377.76	81.13	$18018.9
+Porter		363.04	81.87	$16016.8
+Ronnie		793.47	60.37	$36697.88
+Scott		986.45	50.73	$8690.16
+	Average idle time: 67.01%
+	Total Cost of Employees: $205959.67
+	Gross Profit : $713348.16
+	Actual Profit : $507388.49
+
+
+Hours Open = 2002.38
+Total Calls = 3213
+Total Estimates = 474
+Total Repair Orders = 404
+Total Completed Orders = 275
 Estimate Per Calls = 14.75%
-Repair per Estimates = 84.23%
+Repair per Estimates = 85.23%
 
 Employee	Working	Idle	Cost
-Brandi		1088.55	45.59	$24008.64
-Clay		447.25	77.65	$46296.66
-Eddie		1395.68	30.24	$17213.35
-Joe		1333.53	33.35	$22427.48
-Karen		441.64	77.93	$30871.11
-Mary		444.71	77.77	$18006.48
-Porter		394.53	80.28	$16005.76
-Ronnie		866.16	56.71	$40059.72
-Scott		1431.4	28.46	$12609.92
-	Average idle time: 56.44%
-	Total Cost of Employees: $227499.12
-	Gross Profit : $793130.52
-	Actual Profit : $565631.4
+Brandi		850.74	57.51	$24028.56
+Clay		366.69	81.69	$46335.07
+Eddie		1173.55	41.39	$14473.79
+Joe		1082.58	45.94	$18207.09
+Karen		368.06	81.62	$30896.72
+Mary		363.34	81.85	$18021.42
+Porter		326.76	83.68	$16019.04
+Ronnie		715.37	64.27	$33085.94
+Scott		1238.95	38.13	$10914.58
+	Average idle time: 64.01%
+	Total Cost of Employees: $211982.21
+	Gross Profit : $645298.5
+	Actual Profit : $433316.29
 
 
-Hours Open = 2000.92
-Total Calls = 4567
-Total Estimates = 656
-Total Repair Orders = 560
-Total Completed Orders = 300
-Estimate Per Calls = 14.36%
-Repair per Estimates = 85.37%
+Hours Open = 2002.41
+Total Calls = 3315
+Total Estimates = 482
+Total Repair Orders = 412
+Total Completed Orders = 285
+Estimate Per Calls = 14.54%
+Repair per Estimates = 85.48%
 
 Employee	Working	Idle	Cost
-Brandi		936.61	53.19	$24011.04
-Clay		438.96	78.06	$46301.29
-Eddie		1489.66	25.55	$18372.46
-Joe		1449.36	27.57	$24375.67
-Karen		423.7	78.82	$30874.2
-Mary		437.14	78.15	$18008.28
-Porter		345.05	82.76	$16007.36
-Ronnie		765.38	61.75	$35398.75
-Scott		1537.92	23.14	$13548.32
-	Average idle time: 56.55%
-	Total Cost of Employees: $226897.37
-	Gross Profit : $703962.0
-	Actual Profit : $477064.63
+Brandi		885.86	55.76	$24028.92
+Clay		394.1	80.32	$46335.77
+Eddie		1017.75	49.17	$12552.23
+Joe		936.38	53.24	$15748.25
+Karen		375.67	81.24	$30897.19
+Mary		372.1	81.42	$18021.69
+Porter		343.88	82.83	$16019.28
+Ronnie		744.47	62.82	$34431.78
+Scott		1075.83	46.27	$9477.57
+	Average idle time: 65.9%
+	Total Cost of Employees: $207512.68
+	Gross Profit : $668763.9
+	Actual Profit : $461251.22
+
+
+Hours Open = 2004.0
+Total Calls = 3251
+Total Estimates = 471
+Total Repair Orders = 407
+Total Completed Orders = 228
+Estimate Per Calls = 14.49%
+Repair per Estimates = 86.41%
+
+Employee	Working	Idle	Cost
+Brandi		700.94	65.02	$24048.0
+Clay		375.13	81.28	$46372.56
+Eddie		1100.79	45.07	$13576.35
+Joe		1040.62	48.07	$17501.29
+Karen		364.34	81.82	$30921.72
+Mary		363.57	81.86	$18036.0
+Porter		270.08	86.52	$16032.0
+Ronnie		600.98	70.01	$27795.12
+Scott		1205.03	39.87	$10615.73
+	Average idle time: 66.61%
+	Total Cost of Employees: $204898.77
+	Gross Profit : $535011.12
+	Actual Profit : $330112.35
